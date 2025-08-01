@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm **ezzentialz** — an aspiring Pythonista learning to code with curiosity and lots of joyful mistakes. This repo is part of my growing portfolio as I learn to think logically, debug better, and build cool mini projects.<br><br>- 🔭 I’m working as Night Guest Service Agent - Hotel Front Desk Receptionist<br>- 📚 I'm currently learning Python - I wanted to be AI Engineer/ML Engineer <br>- ⚡ In my free time I study and learn about python and coding<br>- ⚡ Fun fact: I learn new things and I forget the previous - now everything is new to me</p>
+<p align="left">I'm **ezzentialz** — an aspiring Pythonista learning to code with curiosity and lots of joyful mistakes. This repo is part of my growing portfolio as I learn to think logically, debug better, and build cool mini projects.<br><br>- 🔭 I’m working as Night Guest Service Agent - Hotel Front Desk Receptionist<br>- 📚 I'm currently learning Python - I wanted to be AI Engineer/ML Engineer <br>- ⚡ In my free time I study and learn about python and coding<br>- 
 
 ###
 

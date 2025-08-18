@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Jirath Castillo Taweesethsook</h1>
 <h3 align="center">I'm ** S ** — an aspiring Pythonista learning to code with curiosity and lots of joyful mistakes. This repo is part of my growing portfolio as I learn to think logically, debug better, and build cool mini projects.</h3>
 
-- 🔭 I’m currently working on [House Prices Prediction with Linear Regression and Ridge Model](https://www.kaggle.com/code/jirathtaweesethsook/linear-regression-ridge-my-first-ml)
+- 🔭 I’m currently working on CNN and NLP
 
 - 🌱 I’m currently learning **NN, NLP, LLM**
 
